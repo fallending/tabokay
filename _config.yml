@@ -1,0 +1,5 @@
+title: Tabokay
+description: Privacy policy for the Tabokay Chrome extension
+markdown: kramdown
+kramdown:
+  input: GFM
