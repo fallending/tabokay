@@ -20,7 +20,3 @@ GitHub Pages site for the [Tabokay](https://github.com/fallending/tabokay) Chrom
 4. Save — site publishes at `https://fallending.github.io/tabokay/`
 
 Use that URL as the Chrome Web Store **Privacy policy URL**.
-
-## Submodule
-
-This directory is a git submodule of the Tabokay extension repository (`tabokay-pages`).

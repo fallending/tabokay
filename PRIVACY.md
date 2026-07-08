@@ -104,6 +104,4 @@ We may update this policy. The revised version will be posted at the same URL wi
 ## Contact Us
 
 - **Feedback and feature requests**: [GitHub Issues](https://github.com/fallending/tabokay/issues)
-- **Privacy inquiries** (optional): YOUR_EMAIL@example.com
-
-Replace `YOUR_EMAIL@example.com` before publishing. Remove the email line if you only use Issues.
+- **Privacy inquiries** (optional): asusual.cn@gmail.com
