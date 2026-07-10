@@ -89,18 +89,6 @@ The manifest sets `incognito: spanning`, so the Extension can run in incognito. 
 
 ---
 
-## Children’s Privacy
-
-The Extension is not directed at children under 13, and we do not knowingly collect personal information from children.
-
----
-
-## Changes to This Policy
-
-We may update this policy. The revised version will be posted at the same URL with an updated “Last updated” date. Material changes may be noted in the Extension or GitHub repository.
-
----
-
 ## Contact Us
 
 - **Feedback and feature requests**: [GitHub Issues](https://github.com/fallending/tabokay/issues)
